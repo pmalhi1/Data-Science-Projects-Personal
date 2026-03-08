@@ -31,6 +31,6 @@ Includes fields like: account, symbol, execution price, size, side, time, start 
 Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ## How to Run:
-Run the notebook step by step.
+Run the notebook in following path:
 
-Path: Data-Science-Projects-Personal/Trader Behavior Insights/trader_behaviour_insights.ipynb
+Data-Science-Projects-Personal/Trader Behavior Insights/trader_behaviour_insights.ipynb
