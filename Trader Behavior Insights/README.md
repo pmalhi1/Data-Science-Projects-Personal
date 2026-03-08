@@ -33,4 +33,4 @@ Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp
 ## How to Run:
 Run the notebook step by step.
 
-Path: Data-Science-Projects-Personal/Trader Behavior Insights/Trader_Behaviour_Insights
+Path: Data-Science-Projects-Personal/Trader Behavior Insights/trader_behaviour_insights.ipynb
