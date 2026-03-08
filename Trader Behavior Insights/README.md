@@ -30,6 +30,8 @@ Link: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp
 Includes fields like: account, symbol, execution price, size, side, time, start position, event, closedPnL, leverage, etc.
 Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
+Save these data files as fear_greed_index.csv and historical_data.csv
+
 ## How to Run:
 Run the notebook in following path:
 
